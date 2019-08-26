@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "511921387737",
+    "firebase_url": "https://golfubru.firebaseio.com",
+    "project_id": "golfubru",
+    "storage_bucket": "golfubru.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511921387737:android:a2951621363ca039",
+        "android_client_info": {
+          "package_name": "com.grupachon.golf_ubru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511921387737-8aunoi138j9dlfmnjv7ql3o65qsil8h6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWWebLplrxnnqQUszpDkfO-EYnQO-kPdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511921387737-8aunoi138j9dlfmnjv7ql3o65qsil8h6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
